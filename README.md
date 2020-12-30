@@ -1,6 +1,6 @@
-# OPENCVTEST
+# Notable Alpha Fork
 
-Test repository for an android application. 
+Experimental Test repository for the creation of the Notable android application. 
 
 Currently uses the android camera to apply an adaptive threshold filter.
 
